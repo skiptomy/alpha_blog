@@ -1,0 +1,59 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+.navbar {
+  background-color: transparent !important;
+}
+
+.nav-link {
+  color: #A5B5E5 !important;
+  font-size: 18px;
+}
+
+.navbar-brand {
+  color: #13318C !important;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 32px;
+}
+
+#home-container {
+  margin-top: 100px;
+  background-color: #F5F7FF;
+}
+
+.display-4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: #13318C;
+}
+
+.lead {
+  font-size: 18px;
+  color: #13318C;
+}
+
+#btn {
+  margin-top: 10px;
+  background-color: #13318C;
+  color: white;
+}
+
+#custom-search {
+  background-color: #F5F7FF;
+}
+
+.form-control {
+  color: #13318C;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
